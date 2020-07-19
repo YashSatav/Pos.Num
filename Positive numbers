@@ -1,0 +1,7 @@
+i= [12,-7,5,64,-14]
+y=[]
+for x in range(0,5):
+    if(i[x]>=0):
+        y.append(i[x])
+print(y)
+        
